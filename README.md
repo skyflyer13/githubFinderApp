@@ -1,0 +1,1 @@
+JavaScript app for searching Github users by username. It will give us all their info and their repositories. Everytime you type, press a letter, it makes a request to github. If there is no user, an alert pops up.
